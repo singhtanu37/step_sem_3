@@ -13,3 +13,11 @@ Completed 10 String problems (class and assignment) in feature/session_2 branch.
 Start Session 3 topics.
 **Issues Faced: **
 - None
+
+## Date: 29-08-2026
+**Today's Work:**
+Completed 10 Control Flow problems (class and assignment) in feature/session_3 branch.
+**Next Session Plan:**
+Start Session 4 topics.
+**Issues Faced: **
+- None
