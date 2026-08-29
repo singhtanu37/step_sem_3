@@ -21,3 +21,11 @@ Completed 10 Control Flow problems (class and assignment) in feature/session_3 b
 Start Session 4 topics.
 **Issues Faced: **
 - None
+
+## Date: 29-08-2026
+**Today's Work:**
+Completed 5 Advanced Array practice problems in feature/session_4 branch.
+**Next Session Plan:**
+Complete Session 4 assignment problems.
+**Issues Faced: **
+- None
