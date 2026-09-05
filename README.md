@@ -37,3 +37,11 @@ Completed 5 Advanced Array assignment problems in feature/session_4 branch.
 Start Session 5 topics.
 **Issues Faced: **
 - None
+
+## Date: 05-09-2026
+**Today's Work:**
+Completed 5 Practice problems covering methods, 2D arrays, and Object comparisons in feature/session_5 branch.
+**Next Session Plan:**
+Complete Session 5 assignment problems.
+**Issues Faced:** 
+- None
