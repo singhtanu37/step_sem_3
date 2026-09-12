@@ -53,3 +53,11 @@ Completed 5 Assignment problems covering methods, 2D arrays, and Object sorting 
 Start Session 6 topics.
 **Issues Faced:** 
 - None
+
+## Date: 12-09-2026
+**Today's Work:**
+Completed 5 Practice problems covering Classes, Objects, and Encapsulation in feature/session_6 branch.
+**Next Session Plan:**
+Complete Session 6 assignment problems.
+**Issues Faced: **
+- None
