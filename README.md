@@ -69,3 +69,6 @@ Complete Session 6 assignment problems.
 ## Date: 03-10-2026
 - Added Session 7 class scenarios covering Encapsulation concepts (Piggy Bank, Scorecard, Nickname Tag, Locker Code, Attendance Sheet).
 - Code pushed under src/main/java/encapsulation/class_problems/.
+
+- Added Session 7 homework assignment problems M1-M5 (Character, Playlist, PasswordChecker, TrafficLight, Cart).
+- Code pushed under src/main/java/encapsulation/assignment_problems/.
