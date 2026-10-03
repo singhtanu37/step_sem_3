@@ -61,3 +61,7 @@ Completed 5 Practice problems covering Classes, Objects, and Encapsulation in fe
 Complete Session 6 assignment problems.
 **Issues Faced: **
 - None
+
+## Date: 03-10-2026
+- Added Session 6 assignment problems (M1-M5) covering Classes & Objects, Encapsulation, Constructor Chaining, Reference Types, and Static Members.
+- Completed full Java code implementation under src/main/java/classes_and_objects/assigment_problems/.
