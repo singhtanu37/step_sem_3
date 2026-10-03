@@ -1,4 +1,4 @@
-﻿package classes_and_objects.assigment_problems;
+﻿package classes_and_objects.assignment_problems;
 
 public class M5_CompanyEmployee {
     String empName;
