@@ -84,3 +84,7 @@ Complete Session 6 assignment problems.
 ## Date: 03-10-2026
 - Added Week 9 Class Work Abstraction problems (Garden Plot Area, Weekly Staff Pay, Library Late Fine, Electricity Billing, Travel Booking).
 - Code pushed under src/main/java/week_9/cw/.
+
+## Date: 03-10-2026
+- Added Week 8 Homework Polymorphism problems (Vehicle Service, Bank Account Fee, Course Fee, Employee Salary, Shape Area).
+- Code pushed under src/main/java/week_8/hw/.
