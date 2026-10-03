@@ -76,3 +76,7 @@ Complete Session 6 assignment problems.
 ## Date: 03-10-2026
 - Added Session 8 class scenarios covering Polymorphism (Payment System Fee, Library Due Date, Delivery Fee, Question Grader, Transport Fare Calculator).
 - Code pushed under src/main/java/polymorphism/class_problems/.
+
+## Date: 03-10-2026
+- Added Category C Assignment Practice scenarios covering Polymorphism (Canteen Billing, Campus Parking, Hostel Electricity, Festival Bonus, Streaming Plan Renewal).
+- Code pushed under src/main/java/polymorphism/assignment_practice/.
