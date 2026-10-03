@@ -72,3 +72,7 @@ Complete Session 6 assignment problems.
 
 - Added Session 7 homework assignment problems M1-M5 (Character, Playlist, PasswordChecker, TrafficLight, Cart).
 - Code pushed under src/main/java/encapsulation/assignment_problems/.
+
+## Date: 03-10-2026
+- Added Session 8 class scenarios covering Polymorphism (Payment System Fee, Library Due Date, Delivery Fee, Question Grader, Transport Fare Calculator).
+- Code pushed under src/main/java/polymorphism/class_problems/.
