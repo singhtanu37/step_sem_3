@@ -65,3 +65,7 @@ Complete Session 6 assignment problems.
 ## Date: 03-10-2026
 - Added Session 6 assignment problems (M1-M5) covering Classes & Objects, Encapsulation, Constructor Chaining, Reference Types, and Static Members.
 - Completed full Java code implementation under src/main/java/classes_and_objects/assigment_problems/.
+
+## Date: 03-10-2026
+- Added Session 7 class scenarios covering Encapsulation concepts (Piggy Bank, Scorecard, Nickname Tag, Locker Code, Attendance Sheet).
+- Code pushed under src/main/java/encapsulation/class_problems/.
