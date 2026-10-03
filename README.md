@@ -88,3 +88,7 @@ Complete Session 6 assignment problems.
 ## Date: 03-10-2026
 - Added Week 8 Homework Polymorphism problems (Vehicle Service, Bank Account Fee, Course Fee, Employee Salary, Shape Area).
 - Code pushed under src/main/java/week_8/hw/.
+
+## Date: 03-10-2026
+- Added Session 8 Homework Polymorphism problems.
+- Code pushed under src/main/java/session_8/hw/ on branch eature/session_8.
