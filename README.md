@@ -80,3 +80,7 @@ Complete Session 6 assignment problems.
 ## Date: 03-10-2026
 - Added Category C Assignment Practice scenarios covering Polymorphism (Canteen Billing, Campus Parking, Hostel Electricity, Festival Bonus, Streaming Plan Renewal).
 - Code pushed under src/main/java/polymorphism/assignment_practice/.
+
+## Date: 03-10-2026
+- Added Week 9 Class Work Abstraction problems (Garden Plot Area, Weekly Staff Pay, Library Late Fine, Electricity Billing, Travel Booking).
+- Code pushed under src/main/java/week_9/cw/.
