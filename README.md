@@ -108,3 +108,7 @@ Complete Session 6 assignment problems.
 ## Date: 31-10-2026
 - Added Session 9 Class Work and Homework problems.
 - Code pushed under src/main/java/session_9/cw/ and src/main/java/session_9/hw/ on branch eature/session_9.
+
+## Date: 31-10-2026
+- Added Week 10 (Session 10) Data Structure & Java practice problems (1 to 10).
+- Code pushed under src/main/java/session_10/practice/ on branch eature/session_10.
