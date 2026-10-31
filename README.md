@@ -120,3 +120,7 @@ Complete Session 6 assignment problems.
 ## Date: 31-10-2026
 - Added Week 11 (Session 11) Data Structure practice problems.
 - Code pushed under src/main/java/session_11/practice/ on branch eature/session_11.
+
+## Date: 31-10-2026
+- Added Week 11 (Session 11) DSA Sorting Assignment problems.
+- Code pushed under src/main/java/session_11/assignment/ on branch eature/session_11.
