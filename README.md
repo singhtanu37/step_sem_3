@@ -100,3 +100,7 @@ Complete Session 6 assignment problems.
 ## Date: 03-10-2026
 - Added Week 8 Homework problems.
 - Code pushed under src/main/java/session_8/hw/ on branch eature/session_8.
+
+## Date: 03-10-2026
+- Added Session 9 Homework problems.
+- Code pushed under src/main/java/session_9/hw/ on branch eature/session_9.
