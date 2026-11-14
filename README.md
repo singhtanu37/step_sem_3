@@ -124,3 +124,7 @@ Complete Session 6 assignment problems.
 ## Date: 31-10-2026
 - Added Week 11 (Session 11) DSA Sorting Assignment problems.
 - Code pushed under src/main/java/session_11/assignment/ on branch eature/session_11.
+
+## Date: 14-11-2026
+- Added Week 12 (Session 12) DSA practice problems (1 to 6).
+- Code pushed under src/main/java/session_12/practice/ on branch eature/session_12.
